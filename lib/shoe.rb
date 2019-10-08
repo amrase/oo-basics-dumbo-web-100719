@@ -10,7 +10,7 @@ class Shoe
     @brand=brand
   end
   
-  def coblle
+  def cobble
     puts "Your shoe is as good as new."
   end
 
