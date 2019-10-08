@@ -11,7 +11,7 @@ class Shoe
   end
   
   def coblle
-    puts "Your "
+    puts "Your shoe is as good as new. "
   end
 
 end
